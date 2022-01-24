@@ -1,0 +1,6 @@
+git status
+git add .
+git commit -m "message"
+git push origin ella
+git checkout -b (name) - create new branch
+
